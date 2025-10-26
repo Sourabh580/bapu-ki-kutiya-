@@ -1,2 +1,9 @@
-
+# यह एक साधारण Django वेब सेवा और उसके डेटाबेस के लिए एक ब्लूप्रिंट है।
+services:
+  - type: static web 
+    name: demo
+    plan: free
+    repo: https://github.com/Sourabh580/bapu-ki-kutiya-
+    buildCommand: 'npm run build'
+    startCommand: 'npm start'
 
