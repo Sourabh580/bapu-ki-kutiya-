@@ -5,7 +5,7 @@
   "description": "AR/3D Menu for Bapu Ki Kutiya",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview",
     "start": "vite preview"
   },
