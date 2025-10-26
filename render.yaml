@@ -6,4 +6,4 @@ services:
     repo: https://github.com/Sourabh580/bapu-ki-kutiya-
     buildCommand: 'npm run build'
     startCommand: 'npm start'
-
+    runtime: 'python'
